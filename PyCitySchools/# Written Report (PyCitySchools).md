@@ -1,0 +1,7 @@
+# Written Report (PyCitySchools)
+# Summarizes the analysis 
+- Analyze the emphasize the significance of effective resource allocation and the potential benefits of reduced class sizes in encouraging improved academic achievement. These findings can help educational officials and stakeholders make educated decisions about school finance and structure in order to improve student achievement.
+
+# Draws two correct conclusions or comparisons from the calculations  
+- I discovered that schools with lesser spending per student have higher average math and reading scores, as well as greater passing rates in both disciplines. Schools in the lowest budget range ($585) had the greatest average scores and passing rates. This implies that increased expenditure does not always imply better academic success and that smart resource allocation can have a substantial influence on student results.
+- When it comes to school size and academic performance, I discovered that smaller schools (those with fewer than 1,000 pupils) outperform bigger schools in terms of average math and reading scores, as well as passing rates. Medium-sized schools (1,000-2,000 students) performed well as well, whereas bigger schools (2,000-5,000 students) had somewhat lower test scores and pass rates. This means that lower class sizes and a more intimate learning environment might help students do better academically.
